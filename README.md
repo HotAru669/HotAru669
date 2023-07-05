@@ -19,7 +19,7 @@
     <img src="https://komarev.com/ghpvc/?username=HotAru669&style=flat-square&color=blue" alt=""/> 
 
   <h1> 
-  Ola meus comrades
+  Ola meus camaradas
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
