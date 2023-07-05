@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/oo6B3CLXtqFck/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/72HahsJD4atSE/giphy.gif" width="100"/>
 <div id="badges">
 
 <a href="https://www.instagram.com/levi.content/">
